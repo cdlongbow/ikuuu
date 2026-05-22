@@ -104,7 +104,7 @@ iKUUU 自研客户端支持 Windows、Mac OS、Android 平台，暂时不支持 
 由于是采用Trojan 协议，兼容市面上的第三方客户端。
 
 - **桌面端（Windows / macOS / Linux）**  
-  - **Windows **：Clash 系列（Clash Verge Rev、FlClash等），支持导入订阅链接后统一管理节点；
+  - **Windows**：Clash 系列（Clash Verge Rev、FlClash等），支持导入订阅链接后统一管理节点；
   - **macOS** ：Clash 系列（Clash Verge Rev、FlClash等）、Shadowrocket 、Quantumult X、Stash 、Surge；
   - **Linux**：Clash 系列（Clash Verge Rev、FlClash 等）；
 - **移动端（iOS / Android）**  
@@ -112,6 +112,16 @@ iKUUU 自研客户端支持 Windows、Mac OS、Android 平台，暂时不支持 
   - **Android 平台**：Surfboard、v2rayNG、Clash系列，通过订阅链接导入节点；
 
 > 客户端推荐列表可能会随时间变化，具体名称、获取方式与配置示例，请以【BRAND_CN】官网使用说明为准，避免从不明来源下载软件。
+
+---
+## 测试情况
+
+<img src="https://raw.githubusercontent.com/jichangbaike/ikuuu/refs/heads/main/images/ikuuu-test-20260517.png" alt="ikuuu 测试">
+
+> 测试时间：2026-05-17，网络情况：电信 2Gbps
+>
+
+---
 
 ## 常见问题 (FAQ)
 
